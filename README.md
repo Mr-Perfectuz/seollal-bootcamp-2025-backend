@@ -103,3 +103,4 @@ DON'T FORGET TO DO THIS:
 ```shell
 terraform destroy
 ```
+# seollal-bootcamp-2025-backend
